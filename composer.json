@@ -1,0 +1,21 @@
+{
+    "name": "yii2/yii2-semy",
+    "description": "hgfghfghf",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "LGPL-3.0+",
+    "authors": [
+        {
+            "name": "semy",
+            "email": "semywell@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "she\\semy\\": ""
+        }
+    }
+}
